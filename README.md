@@ -21,6 +21,7 @@ docker run --rm \
 
 
 docker compose
+
 services:
   qbittorrent:
     container_name: qbittorrent
